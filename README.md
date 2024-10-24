@@ -9,7 +9,7 @@ Transactions Dataset
 1. Customer Dataset Cleaning Process
 Columns: CustomerID, Email, Updated_Phone_Number, City, State, Country, Gender, Age, Updated_Joined_Date, Updated_Last_Purchase_Date, TotalSpent, LoyaltyPoints, PurchaseFrequency, CustomerSegment, PreferredPaymentMethod, MaritalStatus, Updated_Account_Creation_Date, AccountStatus, LastUpdated, Updated_Referrer_Id, FeedbackRating, Domain_of_Mail, Country_Code.
 
-Cleaning Steps
+Cleaning Steps:
 Import Data: Imported the dataset into Power BI via Get Data > Text/CSV.
 Remove Invalid Email Domains: Cleaned the Email column to eliminate invalid domains.
 Standardize Phone Numbers: Ensured consistent formatting of phone numbers (e.g., +1-123-456-7890).
